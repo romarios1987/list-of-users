@@ -1,0 +1,10 @@
+.list-group li{
+    display: flex;
+    justify-content:space-around;
+}
+.wrap{
+    margin-top: 10%;
+}
+h1{
+    margin-top: 5%;
+}
